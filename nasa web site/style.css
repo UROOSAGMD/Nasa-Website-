@@ -1,0 +1,242 @@
+
+body{
+    background-color:black;
+}
+.mainhead{
+    background-color: black;
+    height: 80px;
+    width: 1300px;
+   
+}
+.head{
+    justify-content: center;
+    display: flex;
+    color: white;
+    gap: 100px;
+}
+.head>img{
+    height: 70px;
+}
+.head>input{
+    height: 35px;
+    width: 200px;
+    margin-top: 15px;
+    background-color: black;
+    border: 1px solid wheat;
+}
+.nasalive{
+    display: flex;
+    margin-top: 20px;
+    font-weight: 500px;
+    font-size: larger;
+}
+.nasalive>button{
+    background-color: red;
+    color: white;
+    height: 20px;
+    
+    
+}
+.nasalive>span{
+    color: white;
+    
+}
+.mid{
+background-color: black;
+}
+.mid>button{
+    background-color: red;
+    color: white;
+    margin-left: 670px;
+    margin-top: 50px;
+}
+.mid>h1{
+    text-align: center;
+    color: white;
+}
+.pv{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 80px;
+    
+    
+}
+.paraone{color: white;
+         width: 250px;
+         height:90px ;
+
+}
+.vedio{
+    width: 250px;
+}
+.paratwo{color: white;
+         width: 250px;
+         height:90px ;
+         margin-left: 60px;
+
+}
+.fourth{background-color: wheat;
+    display: flex;
+    margin-top: 100px;
+    height: 100px;
+    width: 1500px;
+    justify-content: center;
+    gap: 400px;
+
+}
+.fifth{
+    background-color: white;
+    margin-top: 0px;
+    display: flex;
+    width: 1500px;
+    height: 500px;
+    margin-bottom: 0px;
+    justify-content: center;
+    position: relative;
+    right: 70px;
+    
+}
+.imgtwo{
+    background-image: url(imgtwo.gif);
+    height: 300px;
+    width: 400px;
+    margin-left: 90px;
+    border: 2px solid white;
+    padding-top: 100px;
+    display: flex;
+    align-items: flex-end;
+    
+
+}
+.imgthree{
+    background-image: url(imgthree.webp);
+    height: 400px;
+    width: 250px;
+    border:2px solid white ;
+    background-position: center;
+    
+    padding-left: 50px;
+    display: flex;
+    align-items: flex-end;
+} 
+
+.imgfour{
+    background-image: url(imgfour.webp);
+    border: 2px solid white;
+    height: 400px;
+    width: 300px;
+    
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+    display: flex;
+    align-items: flex-end;
+}
+.sectionfour{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 90px;
+    width: 1500px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    align-items: center;
+    
+}
+.secone{
+  
+    height: 80px;
+    width: 280px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.secone>img{
+border-radius: 60px;
+height: 80px;
+width: 80px;
+text-align:justify;
+}
+.sectwo{
+   
+    height: 80px;
+    width: 280px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.sectwo>img{
+border-radius: 60px;
+height: 80px;
+width: 80px;
+text-align:justify;
+}
+.secthree{
+   
+    height: 80px;
+    width: 280px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.secthree>img{
+border-radius: 60px;
+height: 80px;
+width: 80px;
+text-align:justify;
+}
+
+.last{
+    background-image: url(lastimg.webp);
+    width: 1900px ;
+    height: 700px ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-left: 100px;
+    padding-right: 60px;
+    color: white;
+}
+.last>h1{
+    position: relative;
+    top: 450px;
+    padding-left: 100px;
+}
+.last>p{ 
+    position: relative;
+    top: 450px;
+    padding-left: 100px;
+
+}
+.last>h4{
+    position: relative;
+    top: 450px;
+    padding-left: 100px;
+}
+.lt{
+    height: 200px;
+    width: 1500px;
+    background-color: black;
+    position: relative;
+    left: 90px;
+}
+.ltone{
+    color: white;
+    display: flex;
+    
+    gap: 30px;
+    width: 1100px;
+    height: 70px;
+    
+}
+.lttwo{
+color: white;
+}
+.ltthree{
+    color: white;
+    display: flex;
+    gap: 90px;  
+}
